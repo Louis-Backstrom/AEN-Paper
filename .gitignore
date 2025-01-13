@@ -47,3 +47,9 @@ po/*~
 
 # RStudio Connect folder
 rsconnect/
+
+# BA Distribution Maps
+Data/408sp/
+
+# Out of Season iNat Photos
+Out of Season Photos/
